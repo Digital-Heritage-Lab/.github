@@ -43,5 +43,5 @@
 <p>If you have any questions or suggestions, feel free to contact us:</p>
 <ul>
   <li><strong>Email:</strong> <a href="mailto:digitalheritagelabweb@gmail.com">digitalheritagelabweb@gmail.com</a></li>
-  <li><strong>GitHub Discussions:</strong> <a href="https://github.com/Digital-Heritage-Lab/discussions" target="_blank">Join the discussion</a></li>
+  <li><strong>GitHub Discussions:</strong> <a href="https://github.com/orgs/Digital-Heritage-Lab/discussions" target="_blank">Join the discussion</a></li>
 </ul>
