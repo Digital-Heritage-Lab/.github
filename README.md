@@ -1,8 +1,8 @@
 <div align="center">
-<h1>Digital Heritage Lab</h1>
-
+<img src="https://raw.githubusercontent.com/Digital-Heritage-Lab/.github/refs/heads/main/src/Digital%20Heritage%20Lab%20-%20Banner.png">
+<br><br>
   <p>🌍 <strong>Digital Heritage Lab</strong> is an organization dedicated to preserving and sharing cultural heritage in the digital world. Our goal is to transfer historical and cultural riches to future generations using digital tools.</p>
-  <img src="">
+  
 </div>
 <h2>🎯 Our Mission</h2>
 
